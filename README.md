@@ -1,5 +1,6 @@
-# TP 1 : accréditation anonyme et coloriage de graphe
+# TP de Cyber Data
 
-Rendu : 27 octobre 2023
+## TP 1 : accréditation anonyme et coloriage de graphe
+## TP 2 : canal de diffusion anonyme et génération de secret
 
 Binôme : Antoine Maurais et Florian Monfort
